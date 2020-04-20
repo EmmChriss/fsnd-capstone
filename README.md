@@ -1,8 +1,10 @@
-available at: [https://emmchris-fsnd-capstone.herokuapp.com/]
+Available at: [https://emmchris-fsnd-capstone.herokuapp.com/]
 
 ## Abbreviations
 Casting Assistant = CA
+
 Casting Director = CD
+
 Executive Producer = EP
 
 ## Environment
